@@ -24,7 +24,7 @@ namespace CoreDemo.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Vijay Yadav";
 
             return View();
         }
